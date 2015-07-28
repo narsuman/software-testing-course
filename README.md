@@ -1,9 +1,10 @@
-Tervetuloa IIO123000 kurssille!
+Tervetuloa IIO123000 ohjelmistotestauskurssin GitHub-projektiin !
 
-Tämä sivusto edistaa käytännön kokeilua siitä miten JAMK:in ohjelmistotestuaksen kurssi  [IIO123000](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=IIO12300&knro=&noclose=%20&lan=f) voidaan toteuttaa soveltaen GitHub palvelua. Kurssi on käynnistyy [JAMK](http://www.jamk.fi):illa 15.1.2015. 
+[IIO123000](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=IIO12300&knro=&noclose=%20&lan=f) kurssi käynnistyy [JAMK](http://www.jamk.fi):illa 7.9.2015. 
 
+Voit siirtyä suoraan kurssin [wiki sivulle](https://github.com/narsuman/software-testing-course/wiki) tästä
 
 tv:NarsuMan
 
 
-Voit siirtyä suoraan kurssin [wiki sivulle](https://github.com/narsuman/software-testing-course/wiki) tästä
+
